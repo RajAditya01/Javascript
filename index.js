@@ -1,4 +1,5 @@
 //way to printing
+
 //alert("Me")
 // document.write("This is write");
 
