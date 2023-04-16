@@ -98,7 +98,7 @@ var y = 56;
 // console.log(false || true)
 // console.log(false || false)
 
-// Logical not
+// Logical not-->sach ko jhut or jhut ko sach kehata hai usse logical operator kheathe hai :)
 // console.log(!false);
 // console.log(!true);
 
