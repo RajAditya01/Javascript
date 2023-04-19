@@ -174,12 +174,15 @@ var arr = [1, 2, 3, 4, 5, 6, 7];
 //     j++;
 // } while (j < arr.length);
 
-let myArr = ["Fan", "Camera", 34, null, true];
-// Array Methods
+// let myArr = ["Fan", "Camera", 34, null, true];
+// // Array Methods
 // console.log(myArr.length);
 // myArr.pop();
 // myArr.push("harry")
-// myArr.shift()
+// myArray.forEach(function(element) {
+//     console.log(element);
+//   });
+// myArr.shift()-->fan ko delete krega 
 // const newLen = myArr.unshift("Harry")
 // console.log(newLen);
 // console.log(myArr);
