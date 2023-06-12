@@ -262,6 +262,7 @@ tn[0].replaceChild(createdElement2, createdElement);
 //     console.log("Mouse up when clicked on Container");
 // })
 
+
 // firstContainer.addEventListener('mousedown', function(){
 //     document.querySelectorAll('.container')[1].innerHTML = "<b> We have clicked</b>"
 //     console.log("Mouse down when clicked on Container");
